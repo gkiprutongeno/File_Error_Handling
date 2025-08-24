@@ -1,4 +1,4 @@
-📂 File Handling & Error Management Demo
+📂 File Handling & Error Management.
 This Python script demonstrates safe and interactive file reading with built-in error handling. It guides users through selecting a file, displays basic file statistics, and previews its content—all while gracefully managing common issues like missing files or permission errors.
 
 🚀 Features
